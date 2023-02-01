@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/devium_gui.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>resource/icons/add_black.png</file>
+        <file>resource/icons/add_light.png</file>
+        <file>resource/icons/down_black.png</file>
+        <file>resource/icons/down_light.png</file>
+        <file>resource/icons/icon.png</file>
+        <file>resource/icons/menu_black.png</file>
+        <file>resource/icons/menu_light.png</file>
+        <file>resource/icons/newyear.png</file>
+        <file>resource/icons/prev_black.png</file>
+        <file>resource/icons/prev_light.png</file>
+        <file>resource/icons/rel_black.png</file>
+        <file>resource/icons/rel_light.png</file>
+        <file>resource/icons/rel1_black.png</file>
+        <file>resource/icons/rel1_light.png</file>
+    </qresource>
+</RCC>
